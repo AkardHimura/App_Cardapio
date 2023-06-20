@@ -1,0 +1,51 @@
+[
+    {
+      "nome": "Hambúrguer",
+      "descricao": "Delicioso hambúrguer com queijo, alface e tomate.",
+      "preco": 15.99,
+      "cor": "FFA500"
+    },
+    {
+      "nome": "Pizza",
+      "descricao": "Pizza de pepperoni com molho especial.",
+      "preco": 22.99,
+      "cor": "FF0000"
+    },
+    {
+      "nome": "Sushi",
+      "descricao": "Sushi fresco com salmão e abacate.",
+      "preco": 18.99,
+      "cor": "00FF00"
+    },
+    {
+      "nome": "Salada",
+      "descricao": "Salada mista com alface, tomate e pepino.",
+      "preco": 12.99,
+      "cor": "00FF7F"
+    },
+    {
+      "nome": "Massa",
+      "descricao": "Macarrão com molho de tomate e queijo.",
+      "preco": 14.99,
+      "cor": "FFD700"
+    },
+    {
+      "nome": "Bolo",
+      "descricao": "Delicioso bolo de chocolate com cobertura de brigadeiro.",
+      "preco": 8.99,
+      "cor": "A52A2A"
+    },
+    {
+      "nome": "Café",
+      "descricao": "Café expresso 100% puro.",
+      "preco": 4.99,
+      "cor": "A52A2A"
+    },
+    {
+      "nome": "Sanduíche",
+      "descricao": "Sanduíche de frango grelhado com queijo e vegetais.",
+      "preco": 9.99,
+      "cor": "ADD8E6"
+    }
+  ]
+  
